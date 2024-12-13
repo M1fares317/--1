@@ -105,7 +105,7 @@
         <tr>
             <th rowspan="3">Slime Rancher1|2</th>
             <td style="border:1 px solid green">Багато милих лаймів</td>
-            <td style="border:1 px solid green">Відсутність української мови</td>
+            <td style="border: 1 px solid green">Відсутність української мови</td>
         </tr>
         <tr>
             <td style="border:1 px solid green">Красива та яскрава графіка</td>
