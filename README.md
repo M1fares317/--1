@@ -10,12 +10,12 @@
         <a href="https://www.ttgames.com/"><p style="color: Chartreuse">Детальніше про Sims4</p></a>
     </header>
     <main>
-        <h1 style="font-size:50 px;color: white;background-color:peru; text-align:center"><b>Ігри</h1>
+        <h1 style="font-size:50 px;color: white;background-color:peru; text-align:center"><b>Ігри</b></h1>
         <h2> 1.Колекція лего ігор від Tt games<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Traveller%27s_Tales_Logo.png"width="50px" height="50px"/></h2>
         <table>
     <table style="border:1 px solid green">
         <tr>
-            <td  colspan="1"><td style="border: 1 px solid green">Плюси</td></td>
+            <td  colspan="1"><td style="border:1 px solid green">Плюси</td></td>
             <td style="border:1 px solid green">Мінуси</td>
         </tr>
         <tr>
@@ -66,7 +66,7 @@
     <table style="border:1 px solid green">
         <tr>
             <td  colspan="1"><td style="border:1 px solid green">Плюси</td></td>
-            <td style="border:1 px solid  green">Мінуси</td>
+            <td style="border:1 px solid green">Мінуси</td>
         </tr>
         <tr>
             <th rowspan="3">Genshin Impact</th>
@@ -105,7 +105,7 @@
         <tr>
             <th rowspan="3">Slime Rancher1|2</th>
             <td style="border:1 px solid green">Багато милих лаймів</td>
-            <td style="border: 1 px solid green">Відсутність української мови</td>
+            <td style="border:1 px solid green">Відсутність української мови</td>
         </tr>
         <tr>
             <td style="border:1 px solid green">Красива та яскрава графіка</td>
@@ -143,6 +143,8 @@
     </body>
     <footer style="background-color:black">
          <p style="color:RoyalBlue">Кінець</p>
-         <p style="color:RoyalBlue">Ноомер телефону: +380 344 578 386</p>
+         <p style="color:RoyalBlue">Ноомер телефону: +380 344 578 386</p>\
+         <p href="https://wiki.hoyolab.com/pc/genshin/home"><p style="color: red">Детальніше про Геншин</p></p>
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png"width="70px" height="50px"/>
     </footer>
 </html>
