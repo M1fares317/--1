@@ -10,7 +10,7 @@
         <a href="https://www.ttgames.com/"><p style="color: Chartreuse">Детальніше про Sims4</p></a>
     </header>
     <main>
-        <h1 style="font-size:50 px;color: white;background-color:peru; text-align:center"> Ігри</h1>
+        <h1 style="font-size:50 px;color: white;background-color:peru; text-align:center"><b>Ігри</h1>
         <h2> 1.Колекція лего ігор від Tt games<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Traveller%27s_Tales_Logo.png"width="50px" height="50px"/></h2>
         <table>
     <table style="border:1 px solid green">
