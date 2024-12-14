@@ -143,8 +143,7 @@
     </body>
     <footer style="background-color:black">
          <p style="color:RoyalBlue">Кінець</p>
-         <p style="color:RoyalBlue">Ноомер телефону: +380 344 578 386</p>\
-         <p href="https://wiki.hoyolab.com/pc/genshin/home"><p style="color: red">Детальніше про Геншин</p></p>
+         <p style="color:RoyalBlue">Ноомер телефону: +380 344 578 386</p>
          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/512px-YouTube_full-color_icon_%282017%29.svg.png"width="70px" height="50px"/>
     </footer>
 </html>
